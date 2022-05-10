@@ -7,7 +7,7 @@ image = "img_2958.jpg"
 +++
 # Idee
 
-Im BG Unterricht erhielten wir die Aufgabe, eine persönliche Arbeit zu erstellen. Nach kurzem überlegen entschloss ich mich dazu, eine Collage auf Zeitungspapier zu erstellen. Mit der Internetrecherche bin ich dann auch auf das passende Motiv mit dem Elefantenkopf gekommen. 
+Im BG Unterricht erhielten wir die Aufgabe, eine persönliche Arbeit zu erstellen. Nach kurzem Überlegen entschloss ich mich dazu, eine Collage mit Zeitungspapier zu erstellen. Mit der Internetrecherche bin ich dann auch auf das passende Motiv mit dem Elefantenkopf gekommen. 
 
 # Umsetzung
 
@@ -15,7 +15,7 @@ Als Grundlage habe ich ein weisses A3 Blatt gewählt, wo ich zuerst mit Bleistif
 
 # Fazit
 
-Die fertige Arbeit soll jetzt noch eingerahmt werden, damit sich keine Schnipsel lösen. Ich hatte eigentlich keine Schwierigkeiten beim erstellen der Collage. Nur der Arbeitsschritt vom Ausfüllen des Hintergrunds war ein wenig monoton und einseitig.  Das ganze Projekt der persönlichen Arbeit hat aber mir sehr gefallen und ich finde diese eine gute BG-Arbeit. Auch mit meinem Endprodukt bin ich zufrieden. Vielleicht schafft es ja das Bild in mein Zimmer oder an die Wohnzimmerwand. 
+Die fertige Arbeit soll jetzt noch eingerahmt werden, damit sich keine Schnipsel lösen. Ich hatte eigentlich keine Schwierigkeiten beim erstellen der Collage. Nur der Arbeitsschritt vom Ausfüllen des Hintergrunds war ein wenig monoton und einseitig.  Das ganze Projekt der persönlichen Arbeit hat aber mir sehr gefallen und ich finde diese eine interessante BG-Arbeit. Auch mit meinem Endprodukt bin ich zufrieden. Vielleicht schafft es ja die Collage in mein Zimmer oder an die Wohnzimmerwand. 
 
 ![](img_2317_k.jpg)
 
