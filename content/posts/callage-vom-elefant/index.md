@@ -1,5 +1,5 @@
 +++
-title = "Callage vom Elefant"
+title = "Collage vom Elefant"
 date = "2022-05-10"
 draft = false
 pinned = false
